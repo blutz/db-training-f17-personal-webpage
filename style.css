@@ -37,6 +37,9 @@ body {
   padding: 3px 6px;
   margin-right: 4px;
 }
+.nav__item__link--active {
+  background-color: gold;
+}
 .nav__item__link:hover {
   background-color: #aacbff;
 }
